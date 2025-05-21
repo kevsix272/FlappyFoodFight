@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: c7fca4a1af75b1345b936dbf7b267073
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 787
+        width: 112
+        height: 145
+      alignment: 9
+      pivot: {x: 0.9239588, y: 0.06773766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ddfdad460432a47a5ed4627b1a408a
+      internalID: -1258957108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 802
+        width: 121
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb580b079fd2ed418350d5232048a94
+      internalID: -219696490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 420
+        width: 232
+        height: 495
+      alignment: 9
+      pivot: {x: 0.3377658, y: 0.108621925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897938a296c1d29428669faf5274697a
+      internalID: 1870483894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 790
+        width: 124
+        height: 143
+      alignment: 9
+      pivot: {x: 0.0558009, y: 0.1281026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef8091ca8c36f45a6ae3d945d7b2d9
+      internalID: 911544772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 519
+        width: 138
+        height: 143
+      alignment: 9
+      pivot: {x: 0.9128991, y: 0.8718983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec63f304a75fd34bb8e830dc8f71d71
+      internalID: -1040825365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_5
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 476
+        width: 138
+        height: 141
+      alignment: 9
+      pivot: {x: 0.01828489, y: 0.9445255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31496cea0999294aaa876b9aaf8f1a1
+      internalID: 1068231988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 91
+        width: 133
+        height: 133
+      alignment: 9
+      pivot: {x: 0.9427024, y: 0.9141408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb43b8ba2242e14a8123c56fa03c6d4
+      internalID: 37072677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 85
+        width: 133
+        height: 129
+      alignment: 9
+      pivot: {x: 0.9855443, y: 0.9711528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f733ab2de3f31cf4fb094afd219a0a8c
+      internalID: 1691614028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 66
+        width: 99
+        height: 171
+      alignment: 9
+      pivot: {x: 0.4424445, y: 0.933182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037eaa9cf8cde0047a2ee66af821f6de
+      internalID: -1139670965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet sosage transperant_9
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 73
+        width: 98
+        height: 164
+      alignment: 9
+      pivot: {x: 0.655048, y: 0.9748337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c2e022cc7c300499731c8453a96564
+      internalID: -769016289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite sheet sosage transperant_0: -1258957108
+      sprite sheet sosage transperant_1: -219696490
+      sprite sheet sosage transperant_2: 1870483894
+      sprite sheet sosage transperant_3: 911544772
+      sprite sheet sosage transperant_4: -1040825365
+      sprite sheet sosage transperant_5: 1068231988
+      sprite sheet sosage transperant_6: 37072677
+      sprite sheet sosage transperant_7: 1691614028
+      sprite sheet sosage transperant_8: -1139670965
+      sprite sheet sosage transperant_9: -769016289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

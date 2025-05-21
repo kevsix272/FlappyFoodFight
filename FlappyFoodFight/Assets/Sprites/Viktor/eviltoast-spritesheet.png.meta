@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: e12df2beccb147e458731341433adc72
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eviltoast-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 411
+        width: 195
+        height: 349
+      alignment: 9
+      pivot: {x: 0.9789061, y: 0.13412046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f35f186965234f9b525fb567e88a9
+      internalID: 1681609902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eviltoast-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 756
+        width: 185
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5103019, y: 0.5435128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae87d1d47d949894a85c3cbc49b99606
+      internalID: 711208555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eviltoast-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 420
+        width: 542
+        height: 550
+      alignment: 9
+      pivot: {x: 0.4578041, y: 0.01140919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a055a283895fd04faed2afd60c9e189
+      internalID: -1667601629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eviltoast-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 188
+        height: 368
+      alignment: 9
+      pivot: {x: 0.8244001, y: 0.9402102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8de902e6738344b94564828a431c46
+      internalID: 1872820836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eviltoast-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 167
+        width: 192
+        height: 215
+      alignment: 9
+      pivot: {x: 0.7481577, y: 0.934357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9d7bcfe0f4ef947a233391612d677f
+      internalID: -1424921431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eviltoast-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 32
+        width: 188
+        height: 362
+      alignment: 9
+      pivot: {x: 0.1553247, y: 0.95277137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c94b1e9488de0a4e9bc4d14ef0a6c90
+      internalID: 1414857094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eviltoast-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 47
+        width: 192
+        height: 215
+      alignment: 9
+      pivot: {x: 0.7382314, y: 0.9166284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fde4fee7450d544a433cd39c8bafc4
+      internalID: -2009830413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      eviltoast-spritesheet_0: 1681609902
+      eviltoast-spritesheet_1: 711208555
+      eviltoast-spritesheet_2: -1667601629
+      eviltoast-spritesheet_3: 1872820836
+      eviltoast-spritesheet_4: -807981175
+      eviltoast-spritesheet_5: -1424921431
+      eviltoast-spritesheet_6: 1414857094
+      eviltoast-spritesheet_7: -277603524
+      eviltoast-spritesheet_8: -2009830413
+      eviltoast-spritesheet_9: -1725407292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
