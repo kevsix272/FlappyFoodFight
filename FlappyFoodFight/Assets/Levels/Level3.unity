@@ -4874,7 +4874,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 1477355996}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1477355998}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 483a09769e6012e45a61c4a4319e6797, type: 3}
   m_Name: 
@@ -13855,7 +13855,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1798295683941141774, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1798295683941141774, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
       propertyPath: attackCooldown
@@ -13988,6 +13988,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5270582981583608356, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1477356001}
+    - targetCorrespondingSourceObject: {fileID: 5270582981583608356, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1477356002}
   m_SourcePrefab: {fileID: 100100000, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
 --- !u!4 &1477355997 stripped
 Transform:
@@ -14029,6 +14032,25 @@ MonoBehaviour:
   attackRange: 0.5
   attackDamage: 1
   attackCooldown: 2
+--- !u!114 &1477356002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1477355998}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3655b735eb473b54a8e6e4c09af6f658, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 1477356000}
+  AttackPoint: {fileID: 1477355999}
+  enemyLayers:
+    serializedVersion: 2
+    m_Bits: 2048
+  attackRange: 0.5
+  enemyDamage: 1
 --- !u!1 &1492103759
 GameObject:
   m_ObjectHideFlags: 0

@@ -22730,6 +22730,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1798295683941141774, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
+      propertyPath: attackCooldown
+      value: 0.75
+      objectReference: {fileID: 0}
     - target: {fileID: 4538687039970270076, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.28
@@ -22817,6 +22821,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5270582981583608356, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1870468599}
+    - targetCorrespondingSourceObject: {fileID: 5270582981583608356, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1870468600}
   m_SourcePrefab: {fileID: 100100000, guid: f0ea73a617645d7429770f3e74eb808e, type: 3}
 --- !u!1 &1870468594 stripped
 GameObject:
@@ -22869,6 +22876,25 @@ MonoBehaviour:
   attackRange: 0.5
   attackDamage: 1
   attackCooldown: 2
+--- !u!114 &1870468600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1870468594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3655b735eb473b54a8e6e4c09af6f658, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 1870468597}
+  AttackPoint: {fileID: 1870468595}
+  enemyLayers:
+    serializedVersion: 2
+    m_Bits: 2048
+  attackRange: 0.5
+  enemyDamage: 1
 --- !u!1 &1878751190
 GameObject:
   m_ObjectHideFlags: 0
